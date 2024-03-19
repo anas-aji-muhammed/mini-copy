@@ -9,7 +9,10 @@ export default {
       colors:{
         'grey-text': '#a5a5a5'
 
-      }
+      },
+      fontFamily: {
+        'sans': ['Lato', 'sans-serif'],
+      },
     },
   },
   plugins: [],
